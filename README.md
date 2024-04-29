@@ -1,4 +1,4 @@
-# Data Analysis and Modeling Repository
+# Car Data Analysis and Clustering
 
 ## Overview
 This repository contains all the necessary components for conducting a thorough Exploratory Data Analysis (EDA) and running advanced clustering algorithms using DBSCAN. It includes Jupyter notebooks for visualizations, datasets for analysis, and the model itself.
