@@ -1,0 +1,14 @@
+# Ignore Jupyter metadata
+*.ipynb_checkpoints
+
+# Ignore Pycharm settings
+.idea
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints
+
+# Ignore virtualenv
+venv
+
+# Ignore Mac metadata
+.DS_Store
