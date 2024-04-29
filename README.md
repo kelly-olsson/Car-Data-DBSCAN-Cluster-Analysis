@@ -4,7 +4,7 @@
 This repository contains all the necessary components for conducting a thorough Exploratory Data Analysis (EDA) and running advanced clustering algorithms using DBSCAN. It includes Jupyter notebooks for visualizations, datasets for analysis, and the model itself.
 
 ## Data Usage
-The data used in this project belongs to [Loja Contectada](https://www.lojaconectada.com.br/) and is not available for use without permission. To inquire about usage of the data, please contact Paulo Henrique [@phsantosjr ](https://github.com/phsantosjr).
+The data used in this project belongs to [Loja Conectada](https://www.lojaconectada.com.br/) and is not available for use without permission. To inquire about usage of the data, please contact Paulo Henrique [@phsantosjr ](https://github.com/phsantosjr).
 
 ## Code
 The source code in this repository is open and freely available for use, modification, and distribution under the MIT License. See the `LICENSE` file for more details.
